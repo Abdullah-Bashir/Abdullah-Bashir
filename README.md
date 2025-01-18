@@ -35,18 +35,12 @@ Welcome to my GitHub profile! I'm a third-semester BSCS student with a focus on 
 ---
 
 ## 🚀 **Current Projects**
+- **AI app**: An app with AI Apis itegrated with it so client can enhance its productivity. 
 - **Next.js Blog App**: A dynamic blogging platform with role-based access and MongoDB integration.  
 - **Portfolio Website**: A showcase of my MERN stack projects, skills, and experiences.  
-- **Learning AI/ML**: Exploring Python libraries like NumPy, Pandas, and scikit-learn.  
 
 ---
 
-## 🌱 **Currently Learning**
-- Advanced **React** and **Next.js** features, including server-side rendering.  
-- Optimizing backend APIs for performance and scalability.  
-- Enhancing database management with **MongoDB** and best practices.  
-
----
 
 ## 📫 **Let's Connect**
 - 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
