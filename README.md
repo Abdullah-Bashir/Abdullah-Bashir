@@ -1,8 +1,5 @@
 # Hi, I'm Abdullah! 👋  
 
-🎓 **CS Student | MERN Stack Developer | Aspiring Software Engineer**  
-Welcome to my GitHub profile! I'm a third-semester BSCS student with a focus on web development, particularly using the MERN stack. Passionate about crafting responsive, user-friendly applications and solving real-world challenges, I strive to turn ideas into impactful solutions.
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" width="300"/>
 </div>
@@ -38,14 +35,6 @@ Welcome to my GitHub profile! I'm a third-semester BSCS student with a focus on 
 - **AI app**: An app with AI Apis itegrated with it so client can enhance its productivity. 
 - **Next.js Blog App**: A dynamic blogging platform with role-based access and MongoDB integration.  
 - **Portfolio Website**: A showcase of my MERN stack projects, skills, and experiences.  
-
----
-
-
-## 📫 **Let's Connect**
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- 🌐 **Portfolio**: [Your Portfolio Link](https://yourportfolio.com)  
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
 
 ---
 
