@@ -1,7 +1,7 @@
 # Hi, I'm Abdullah! 👋  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" height="300" width="500"/>
+  <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" height="200" width="400"/>
 </div>
 
 ---
