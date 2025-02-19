@@ -24,7 +24,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -33,9 +32,5 @@
 
 ## 🚀 **Current Projects**
 - **AI app**: An app with AI Apis itegrated with it so client can enhance its productivity. 
-- **Next.js Blog App**: A dynamic blogging platform with role-based access and MongoDB integration.  
-- **Portfolio Website**: A showcase of my MERN stack projects, skills, and experiences.  
+- **Next.js Blog App**: A dynamic blogging platform with role-based access and MongoDB integration.   
 
----
-
-Feel free to explore my repositories, and don’t hesitate to reach out for collaborations! 🚀
