@@ -50,4 +50,4 @@
 
 ## 🚀 **Current Projects**
 - **AI App**: An app with AI APIs integrated to enhance client productivity.
-- **Next.js Blog App**: A dynamic blogging platform with role-based access and MongoDB integration.
+- **Library Management System**: A system for managing book records, user authentication, and borrowing transactions.
