@@ -49,5 +49,5 @@
 ---
 
 ## 🚀 **Current Projects**
-- **AI App**: An app with AI APIs integrated to enhance client productivity.
+- **Learning Management System**: A full system to create courses by admins and purchase by users with proper routes security, Also includes features like: payment integrations, cloudinary, node-cron 
 - **Library Management System**: A system for managing book records, user authentication, and borrowing transactions.
