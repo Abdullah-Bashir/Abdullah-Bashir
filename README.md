@@ -55,28 +55,27 @@
 
 ### ⚙️ **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend Skills" />
 </p>
 
 ### 🗄️ **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Database Skills" />
 </p>
 
 ### 🔧 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" alt="Programming Languages" />
 </p>
 
 ### 🛠️ **Tools & Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel,netlify" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Tools" />
 </p>
 
 ### 🌐 **Real-time & Communication**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" height="48" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" alt="WebSocket" height="48" width="48"/>
 </p>
 
 </div>
@@ -106,39 +105,6 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=abdullah&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/abdullah)
   
-</div>
-
----
-
-## 🌟 **What I'm Currently Working On**
-
-<div align="center">
-
-\`\`\`javascript
-const abdullah = {
-    currentFocus: "Building scalable web applications",
-    learning: ["TypeScript", "GraphQL", "Docker", "AWS"],
-    workingOn: "Real-time Chat Application with advanced features",
-    askMeAbout: ["React", "Node.js", "MongoDB", "System Design"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-\`\`\`
-
-</div>
-
----
-
-## 📈 **Current Learning Path**
-
-<div align="center">
-
-| Technology | Progress | Next Goal |
-|------------|----------|-----------|
-| 🔥 **TypeScript** | ████████░░ 80% | Advanced Types |
-| 🐳 **Docker** | ██████░░░░ 60% | Kubernetes |
-| ☁️ **AWS** | █████░░░░░ 50% | Serverless |
-| 📊 **GraphQL** | ███░░░░░░░ 30% | Apollo Server |
-
 </div>
 
 ---
