@@ -1,53 +1,178 @@
-# Hi, I'm Abdullah! 👋  
+# <div align="center">👋 Hi there, I'm **Abdullah**! 🚀</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" height="150" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" height="200" width="400"/>
+</div>
+
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=abdullah&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/abdullah)
+  [![GitHub followers](https://img.shields.io/github/followers/abdullah?style=social)](https://github.com/abdullah)
+  [![GitHub stars](https://img.shields.io/github/stars/abdullah?style=social)](https://github.com/abdullah)
+  
 </div>
 
 ---
 
-## 💻 **Technologies & Tools**
+## 🚀 **Featured Projects**
 
-### **Frontend**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="50" style="border-radius: 50%; background-color: white; padding: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="50" style="border-radius: 50%;"/>
-</div>
 
-### **Backend**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" style="border-radius: 50%;"/>
-</div>
+### 💬 **Real-Time Chat Application**
+*A modern chat app with real-time messaging, user authentication, and group chat features*
+- **Tech Stack**: React, Node.js, Socket.io, MongoDB, JWT Authentication
+- **Features**: Real-time messaging, Online status, Group chats, File sharing, Emoji support
+- **Status**: 🟢 Live & Active
 
-### **Database**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" style="border-radius: 50%;"/>
-</div>
+### 📚 **Learning Management System**
+*A comprehensive LMS for course creation, enrollment, and learning progress tracking*
+- **Tech Stack**: Next.js, Node.js, MongoDB, Stripe, Cloudinary, Node-cron
+- **Features**: Course creation, Payment integration, Progress tracking, Admin dashboard
+- **Status**: 🔄 In Development
 
-### **Programming Languages**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" style="border-radius: 50%;"/>
-</div>
+### 📖 **Library Management System**
+*Digital library system for managing books, users, and borrowing transactions*
+- **Tech Stack**: React, Express.js, MongoDB, JWT Authentication
+- **Features**: Book management, User authentication, Borrowing system, Search functionality
+- **Status**: ✅ Completed
 
-### **Tools**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="50" style="border-radius: 50%; background-color: white; padding: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" style="border-radius: 50%;"/>
 </div>
 
 ---
 
-## 🚀 **Current Projects**
-- **Learning Management System**: A full system to create courses by admins and purchase by users with proper routes security, Also includes features like: payment integrations, cloudinary, node-cron 
-- **Library Management System**: A system for managing book records, user authentication, and borrowing transactions.
+## 💻 **Tech Stack & Tools**
+
+<div align="center">
+
+### 🎨 **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap" alt="Frontend Skills" />
+</p>
+
+### ⚙️ **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" alt="Backend Skills" />
+</p>
+
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" alt="Database Skills" />
+</p>
+
+### 🔧 **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" alt="Programming Languages" />
+</p>
+
+### 🛠️ **Tools & Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel,netlify" alt="Tools" />
+</p>
+
+### 🌐 **Real-time & Communication**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" height="48" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" alt="WebSocket" height="48" width="48"/>
+</p>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 **Achievements & Certifications**
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=abdullah&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/abdullah)
+  
+</div>
+
+---
+
+## 🌟 **What I'm Currently Working On**
+
+<div align="center">
+
+\`\`\`javascript
+const abdullah = {
+    currentFocus: "Building scalable web applications",
+    learning: ["TypeScript", "GraphQL", "Docker", "AWS"],
+    workingOn: "Real-time Chat Application with advanced features",
+    askMeAbout: ["React", "Node.js", "MongoDB", "System Design"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+\`\`\`
+
+</div>
+
+---
+
+## 📈 **Current Learning Path**
+
+<div align="center">
+
+| Technology | Progress | Next Goal |
+|------------|----------|-----------|
+| 🔥 **TypeScript** | ████████░░ 80% | Advanced Types |
+| 🐳 **Docker** | ██████░░░░ 60% | Kubernetes |
+| ☁️ **AWS** | █████░░░░░ 50% | Serverless |
+| 📊 **GraphQL** | ███░░░░░░░ 30% | Apollo Server |
+
+</div>
+
+---
+
+## 🤝 **Let's Connect!**
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdullah)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdullah-portfolio.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah@example.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 **Random Dev Quote**
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+</div>
+
+<div align="center">
+  
+  **⭐ From [Abdullah](https://github.com/abdullah) with ❤️**
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</div>
