@@ -115,7 +115,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 </div>
-
-my code. 
-
-jab ma khoon tab iss ko paste mar dena.
