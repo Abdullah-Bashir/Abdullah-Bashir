@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm Abdullah — Founder of Snapfolio 🚀</div>
+# <div align="center">👋 Hi, I'm Abdullah — Full Stack Developer 🚀</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Product+Builder;RAG+AI+System+Developer;MERN+%26+Next.js+Specialist;Always+Building+%26+Learning" />
