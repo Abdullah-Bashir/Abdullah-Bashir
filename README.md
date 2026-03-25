@@ -27,7 +27,7 @@
 ## 🤖 RAG-based AI Chatbot
 *A Retrieval-Augmented Generation system with PDF uploads & vector search.*  
 **Tech:** Next.js, Express, Pinecone, LangChain, OpenAI, MongoDB  
-**Status:** 🟢 Live / Production Ready
+**Status:**  ✅ Completed
 
 ---
 
@@ -42,7 +42,7 @@
 ## 💬 Real-Time Chat Application  
 **Tech:** React, Node.js, Socket.io, MongoDB  
 Features: Chats, Groups, File sharing, Emoji support  
-**Status:** 🟢 Live
+**Status:**  ✅ Completed
 
 ---
 
@@ -57,13 +57,7 @@ Features: Register, Login, Role-based auth (Admin/User), Token validation
 ## 📚 Learning Management System  
 **Tech:** Next.js, Node.js, MongoDB, Stripe, Cloudinary  
 Features: Courses, Payments, Dashboards  
-**Status:** 🔄 In Development
-
----
-
-## 📖 Library Management System  
-**Tech:** React, Express.js, MongoDB  
-**Status:** ✅ Completed
+**Status:**  ✅ Completed
 
 </div>
 
@@ -81,7 +75,7 @@ Features: Courses, Payments, Dashboards
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,mysql" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+
 
 ### 🔧 Programming Languages
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,cs" />
@@ -94,12 +88,9 @@ Features: Courses, Payments, Dashboards
 <img src="https://img.shields.io/badge/Embeddings-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white" />
 
 ### ☁️ Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
-<img src="https://img.shields.io/badge/VPS-008CFF?style=flat-square&logo=digitalocean&logoColor=white" />
-
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,vps" />
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,swagger" />
 
 ### 🌐 Real-time / Communication
 <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
