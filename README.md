@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Abdullah — Full Stack Developer 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Product+Builder;RAG+AI+System+Developer;MERN+%26+Next.js+Specialist;Always+Building+%26+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Product+Builder;RAG+AI+System+Developer;MERN+%26+.NET+Specialist;Always+Building+%26+Learning" />
 </div>
 
 <div align="center">
@@ -46,6 +46,14 @@ Features: Chats, Groups, File sharing, Emoji support
 
 ---
 
+## 🔐 Auth API with JWT (ASP.NET Core)
+*Secure authentication system with role-based access control.*  
+**Tech:** ASP.NET Core 8, Entity Framework Core, MS SQL Server, JWT, Swagger  
+Features: Register, Login, Role-based auth (Admin/User), Token validation  
+**Status:** ✅ Completed
+
+---
+
 ## 📚 Learning Management System  
 **Tech:** Next.js, Node.js, MongoDB, Stripe, Cloudinary  
 Features: Courses, Payments, Dashboards  
@@ -69,26 +77,45 @@ Features: Courses, Payments, Dashboards
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,dotnet" />
+
+### 🔐 .NET Stack
+- **ASP.NET Core 8** - REST APIs, MVC
+- **Entity Framework Core** - ORM
+- **MS SQL Server** - Database
+- **JWT Authentication** - Security
+- **Swagger** - API Documentation
 
 ### 🧠 AI & RAG
 **LangChain · Pinecone · OpenAI · Vector Databases · Embeddings · PDF Processing**
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres" />
+- **MS SQL Server** - Enterprise Database
 
 ### 🔧 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,cs" />
 
 ### ☁️ Cloud & Deployment
 <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
+- **VPS** - DigitalOcean, Linode
 
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
+- **Swagger** - API Documentation & Testing
 
 ### 🌐 Real-time / Communication
 <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah&layout=compact&theme=tokyonight" />
 </div>
 
 ---
