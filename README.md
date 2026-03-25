@@ -79,30 +79,27 @@ Features: Courses, Payments, Dashboards
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,dotnet" />
 
-### 🔐 .NET Stack
-- **ASP.NET Core 8** - REST APIs, MVC
-- **Entity Framework Core** - ORM
-- **MS SQL Server** - Database
-- **JWT Authentication** - Security
-- **Swagger** - API Documentation
-
-### 🧠 AI & RAG
-**LangChain · Pinecone · OpenAI · Vector Databases · Embeddings · PDF Processing**
-
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres" />
-- **MS SQL Server** - Enterprise Database
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,mysql" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
 
 ### 🔧 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,cs" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,cs" />
+
+### 🧠 AI & RAG
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20DB-005571?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white" />
 
 ### ☁️ Cloud & Deployment
 <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
-- **VPS** - DigitalOcean, Linode
+<img src="https://img.shields.io/badge/VPS-008CFF?style=flat-square&logo=digitalocean&logoColor=white" />
 
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
-- **Swagger** - API Documentation & Testing
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 
 ### 🌐 Real-time / Communication
 <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
