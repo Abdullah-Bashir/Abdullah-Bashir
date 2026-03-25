@@ -114,7 +114,13 @@ Features: Courses, Payments, Dashboards
 
 <div align="center">
 
-### 💭 Random Dev Quote  
+> *"Strong character beats strong code.*  
+> *Accountability > Talent. Ownership > Excuses."*
+
+**— Abdullah**
+
+---
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
