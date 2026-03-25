@@ -10,16 +10,6 @@
 
 ---
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=abdullah&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/abdullah)  
-[![GitHub followers](https://img.shields.io/github/followers/abdullah?style=social)](https://github.com/abdullah)  
-[![GitHub stars](https://img.shields.io/github/stars/abdullah?style=social)](https://github.com/abdullah)
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
