@@ -1,4 +1,6 @@
-# <div align="center">👋 Hi, I'm Abdullah — Full Stack Developer 🚀</div>
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abdullah%20Bashir&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20DeVops%20engineer%20%E2%80%A2%20AI%20Agents&descAlignY=58&descSize=18" />
+</a>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Product+Builder;RAG+AI+System+Developer;MERN+%26+.NET+Specialist;Always+Building+%26+Learning" />
