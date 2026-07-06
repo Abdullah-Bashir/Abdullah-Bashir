@@ -22,8 +22,7 @@
 
 Full-Stack Engineer, Cloud Architect, and AI Automation Specialist. I build production-grade SaaS platforms, high-availability cloud infrastructure, and autonomous AI agent systems — end to end, from architecture to deployment.
 
-- 🔭 Currently building **futureFolio**, a SaaS portfolio platform with 250+ signups
-- ⚙️ Currently learning **Terraform**, the **Claude Agent SDK**, and the **OpenAI Agents SDK (ADK)**
+- ⚙️ Recently worked in **Terraform**, the **Claude Agent SDK**, and the **OpenAI Agents SDK (ADK)**
 - 💬 Ask me about RAG pipelines, autonomous AI agents, or scalable AWS/Azure architecture
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/abdullah)
 
