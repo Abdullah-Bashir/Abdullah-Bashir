@@ -1,5 +1,5 @@
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abdullah%20Bashir&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AI%20Automation&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abdullah%20Bashir&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AI%20Automation&descAlignY=58&descSize=18" />
 </a>
 
 <div align="center">
