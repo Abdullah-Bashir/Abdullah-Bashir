@@ -63,6 +63,14 @@ Event-driven invoice ingestion system that replaces manual entry and brittle reg
 
 ---
 
+### 📱 WhatsApp AI Automation — Twilio + Claude Agent SDK
+Conversational automation layer that lets businesses handle customer chats, bookings, and FAQs directly over WhatsApp.
+**Highlights:** Twilio WhatsApp Business API for inbound/outbound messaging · Claude Agent SDK driving reasoning and tool calls (lookups, order/booking actions) · webhook-based message handling with session/context tracking per user
+**Tech:** Twilio API, Claude Agent SDK, Node.js
+**Status:** ✅ Completed
+
+---
+
 ### 🤖 RAG-Based AI Chatbot
 Retrieval-Augmented Generation system with PDF ingestion and vector search.
 **Tech:** Next.js, Express, Pinecone, LangChain, OpenAI, MongoDB
