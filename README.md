@@ -115,34 +115,6 @@ Designed and implemented **multi-agent architectures** where specialized AI agen
 
 ---
 
-## 🔥 Trending AI — Autonomous YouTube Content Pipeline
-
-An AI automation system that researches current topics, generates video concepts, creates video scenes, generates metadata, and publishes content.
-
-### Architecture
-
-**Research Agent → Video Agent → Video Generation → Validation → YouTube Metadata → Upload**
-
-### Highlights
-
-- 🔎 Live internet research for trending topics
-- 🧠 AI-generated story and video concepts
-- 🤖 Agent-based workflow orchestration
-- 🎬 AI video generation
-- 📝 Automated titles, descriptions, and hashtags
-- 📺 YouTube API integration
-- 📊 LangSmith tracing
-- ⚡ FastAPI backend
-- 🔄 End-to-end automation pipeline
-
-### Tech
-
-`Python` `FastAPI` `LangGraph` `LangChain` `LangSmith` `OpenAI` `Google Veo` `YouTube API`
-
-**Status:** 🟢 Active Development
-
----
-
 ## 🔔 QR-Bell — Enterprise Smart Doorbell System
 
 Hybrid Web + Mobile notification platform delivering a real-time doorbell experience.
